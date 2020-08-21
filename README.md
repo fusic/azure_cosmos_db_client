@@ -1,0 +1,2 @@
+# azure_cosmos_db_client
+Azure CosmosDBクライアント用Gem
